@@ -15,8 +15,8 @@ namespace CRMSync
             //Console.WriteLine("Starto");
             //Console.ReadLine();
             //ApprovedMSCComp
-            SyncApprovedAccount.StartSync(true);   
-            //SyncApprovedAccount.StartSync(false);
+            //SyncApprovedAccount.StartSync(true);   
+            SyncApprovedAccount.StartSync(false);
             //APPROVEDLETTERDATEs
             //ApprovalLetterDate syncApprovalDates = new ApprovalLetterDate();
             //syncApprovalDates.StartSync();

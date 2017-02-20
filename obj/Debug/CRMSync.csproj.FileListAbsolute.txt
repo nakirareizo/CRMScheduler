@@ -70,3 +70,19 @@ I:\Developments\MDEC\CRM&WizardSync\Scheduler\CRMSync\CRMSync\obj\Debug\CRMSync.
 I:\Developments\MDEC\CRM&WizardSync\Scheduler\CRMSync\CRMSync\obj\Debug\CRMSync.exe
 I:\Developments\MDEC\CRM&WizardSync\Scheduler\CRMSync\CRMSync\obj\Debug\CRMSync.pdb
 I:\Developments\MDEC\CRM&WizardSync\Scheduler\CRMSync\CRMSync\obj\Debug\CRMSync.csprojResolveAssemblyReference.cache
+I:\Source Codes\CRMScheduler\bin\Debug\CRMSync.exe.config
+I:\Source Codes\CRMScheduler\obj\Debug\CRMSync.csproj.ResolveComReference.cache
+I:\Source Codes\CRMScheduler\obj\Debug\CRMSync.exe
+I:\Source Codes\CRMScheduler\obj\Debug\CRMSync.pdb
+I:\Source Codes\CRMScheduler\bin\Debug\CRMSync.exe
+I:\Source Codes\CRMScheduler\bin\Debug\CRMSync.pdb
+I:\Source Codes\CRMScheduler\bin\Debug\BOL.dll
+I:\Source Codes\CRMScheduler\bin\Debug\BOL.Wizard.dll
+I:\Source Codes\CRMScheduler\bin\Debug\ClosedXML.dll
+I:\Source Codes\CRMScheduler\bin\Debug\DocumentFormat.OpenXml.dll
+I:\Source Codes\CRMScheduler\bin\Debug\stdole.dll
+I:\Source Codes\CRMScheduler\bin\Debug\ClosedXML.xml
+I:\Source Codes\CRMScheduler\bin\Debug\NetOffice.xml
+I:\Source Codes\CRMScheduler\bin\Debug\OfficeApi.xml
+I:\Source Codes\CRMScheduler\bin\Debug\VBIDEApi.xml
+I:\Source Codes\CRMScheduler\obj\Debug\CRMSync.csprojResolveAssemblyReference.cache
