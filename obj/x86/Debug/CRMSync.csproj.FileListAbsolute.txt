@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects\Scheduler\CRMSync\CRMSync\bin\x86\Debug\CRMSync.exe.config
+C:\Users\User\Desktop\Projects\Scheduler\CRMSync\CRMSync\obj\x86\Debug\CRMSync.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Projects\Scheduler\CRMSync\CRMSync\bin\x86\Debug\CRMSync.exe
+C:\Users\User\Desktop\Projects\Scheduler\CRMSync\CRMSync\bin\x86\Debug\CRMSync.pdb
+C:\Users\User\Desktop\Projects\Scheduler\CRMSync\CRMSync\bin\x86\Debug\AccelTeam.Utilities.dll
+C:\Users\User\Desktop\Projects\Scheduler\CRMSync\CRMSync\obj\x86\Debug\CRMSync.exe
+C:\Users\User\Desktop\Projects\Scheduler\CRMSync\CRMSync\obj\x86\Debug\CRMSync.pdb

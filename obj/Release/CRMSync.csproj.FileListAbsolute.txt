@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Projects\CRM&WizardSync\Scheduler\CRMSync\CRMSync\bin\Release\CRMSync.exe.config
+C:\Users\User\Desktop\Projects\CRM&WizardSync\Scheduler\CRMSync\CRMSync\obj\Release\CRMSync.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Projects\CRM&WizardSync\Scheduler\CRMSync\CRMSync\obj\Release\CRMSync.exe
+C:\Users\User\Desktop\Projects\CRM&WizardSync\Scheduler\CRMSync\CRMSync\obj\Release\CRMSync.pdb
