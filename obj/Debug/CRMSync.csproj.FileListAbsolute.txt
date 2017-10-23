@@ -86,3 +86,17 @@ I:\Source Codes\CRMScheduler\bin\Debug\NetOffice.xml
 I:\Source Codes\CRMScheduler\bin\Debug\OfficeApi.xml
 I:\Source Codes\CRMScheduler\bin\Debug\VBIDEApi.xml
 I:\Source Codes\CRMScheduler\obj\Debug\CRMSync.csprojResolveAssemblyReference.cache
+C:\Users\nakirareizo\CRMScheduler\obj\Debug\CRMSync.csproj.ResolveComReference.cache
+C:\Users\nakirareizo\CRMScheduler\obj\Debug\CRMSync.csproj.CoreCompileInputs.cache
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\CRMSync.exe.config
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\CRMSync.exe
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\CRMSync.pdb
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\AccelTeam.Utilities.dll
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\BOL.dll
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\BOL.Wizard.dll
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\ClosedXML.dll
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\nakirareizo\CRMScheduler\bin\Debug\ClosedXML.xml
+C:\Users\nakirareizo\CRMScheduler\obj\Debug\CRMSync.csprojResolveAssemblyReference.cache
+C:\Users\nakirareizo\CRMScheduler\obj\Debug\CRMSync.exe
+C:\Users\nakirareizo\CRMScheduler\obj\Debug\CRMSync.pdb
